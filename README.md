@@ -1,6 +1,6 @@
 # Curriculum Vitae (CV) Online
 
-![preview](!(https://user-images.githubusercontent.com/65440846/236571035-4e5ddcaf-25f6-4fd0-92bc-ccee156f4c30.png))
+![preview](![image](https://user-images.githubusercontent.com/65440846/236571103-da8bd6c3-916c-45a9-ba7d-4f1faede7947.png))
 
 Desafio Curriculum Vitae
 
